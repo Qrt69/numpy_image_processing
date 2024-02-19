@@ -9,7 +9,7 @@ Hierbij de instructies on de GitHub https://github.com/Qrt69/numpy_image_process
 
 ## Te installeren
 
-...
+De .yaml-file staat rechtstreeks in de root-directory van dit project.
 
 ## Documentatie Notebook
 
