@@ -27,7 +27,7 @@ Er wordt enkele keren naar jouw input gevraagd.
 Je wordt gevraagd een afbeelding te kiezen die zal worden gemanipuleerd.
 Je hebt de keuze tussen 10 VIERKANTE afbeeldingen die zich in de directory "Data/Input" bevinden.
 
-- Hierna komen de opgelegde manipulaties (zie opdracht - Stap 4) een eerste keer tot stand via eenvoudige functie.
+- Hierna komen de opgelegde manipulaties (zie opdracht - Stap 4) een eerste keer tot stand via eenvoudige functies.
 
 - Zoals gevraagd in Stap 5 van de opdracht, komen die opgelegde manipulaties een tweede keer tot stand, maar nu met advanced functies.
 
@@ -41,8 +41,8 @@ Het programma genereert daarna zelf een random rij van 4n-4 manipulaties die zow
 ### ** Eigen manipulaties **
 
 - Knippen : de afbeelding wordt geknipt in een aantal delen, waarbij de lijndikte en lijnkleur worden opgegeven als parameter.
-	Horizontaal knippen
-	Vertikaal knippen
+	Horizontaal knippen,
+	Vertikaal knippen,
 	Horizontaal en Vertikaal knippen (rooster)
 
 
